@@ -1,0 +1,46 @@
+{
+  "_from": "db_rahulproject",
+  "_id": "db_rahulproject@1.0.38",
+  "_inBundle": false,
+  "_integrity": "sha1-+T5JiQTQmFyshgYb4DZ1MTTVH4U=",
+  "_location": "/db_rahulproject",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "db_rahulproject",
+    "name": "db_rahulproject",
+    "escapedName": "db_rahulproject",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/db_rahulproject/-/db_rahulproject-1.0.38.tgz",
+  "_shasum": "f93e498904d0985cac86061be036753134d51f85",
+  "_spec": "db_rahulproject",
+  "_where": "/home/turetsky/Code/muse_dem/muse_demo",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "crypto-js": "^3.1.5",
+    "jsonwebtoken": "^5.0.5",
+    "sequelize": "^3.19.0",
+    "sqlite3": "^3.1.3",
+    "underscore": "^1.8.3"
+  },
+  "deprecated": false,
+  "description": "",
+  "devDependencies": {},
+  "license": "ISC",
+  "main": "first.js",
+  "name": "db_rahulproject",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.38"
+}
